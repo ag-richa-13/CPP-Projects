@@ -1,3 +1,5 @@
+// SuperMarket Billing System
+
 #include <iostream>
 #include <fstream>
 

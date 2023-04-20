@@ -1,0 +1,5 @@
+ 1 Pen 10 2
+ 2 Pencil 5 1
+ 4 Apple 50 5
+ 5 Mango 50 5
+ 3 Rubber 10 2
